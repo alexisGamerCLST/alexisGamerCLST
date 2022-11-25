@@ -37,7 +37,7 @@ Servidor de Minecrft: Farlancraft Network 6 meses (Creador y Configurador)
 Servidor de minecraft ReedSing Network (Owner y Configurador)
 Servidor de minecraft Tortucraft Network (Co-Owner y Configurador)
 
-SPANISH
+ENGLISH
 
 🌎Hola, my name is: Alexis I am 25 years old.
 My Minecraft nick is: Alexisgamerdlst
